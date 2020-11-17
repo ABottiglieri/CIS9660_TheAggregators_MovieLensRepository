@@ -34,23 +34,48 @@ The complete data contains ~20 million instances. For this project, our team wil
 #### 4b. Number of Features
 The dataset has 6 features. We might further derive variables/dummy variables during the EDA phase. 
 
-Tag: userId,movieId,tag,timestamp
-Movies: movieId,title,genres
-Rating: userId,movieId,rating,timestamp
-Link: movieId,imdbId,tmdbId
-Genome_tags: tagId,tag
-Genome_scores: movieId,tagId,relevance
+Tag: 
+userId,movieId,tag,timestamp
+
+Movies: 
+movieId,title,genres
+
+Rating: 
+userId,movieId,rating,timestamp
+
+Link: 
+movieId,imdbId,tmdbId
+
+Genome_tags: 
+tagId,tag
+
+Genome_scores: 
+movieId,tagId,relevance
 	
 #### 4c. Missing Values?
-Tag: 16
-Movies: 0
-Rating: 0
-Link: 0
-Genome_tags: 0
-Genome_scores: 0
+Tag: 
+16
+
+Movies: 
+0
+
+Rating: 
+0
+
+Link: 
+0
+
+Genome_tags: 
+0
+
+Genome_scores: 
+0
 
 #### 5. Target variable? Classification Task or Regression? 
 For this project, we will be working a hybrid recommendation model. We will primarily focus on two aspects -  
 
-Content-based recommendation: How can we recommend movies based on the current type of content that the user consumes?
-Collaborative recommendation: Identify clusters or lookalike customers and recommend content based on the lookalike customer’s movie consumption. 
+Content-based recommendation: 
+How can we recommend movies based on the current type of content that the user consumes?
+
+Collaborative recommendation: 
+Identify clusters or lookalike customers and recommend content based on the lookalike customer’s movie consumption. 
