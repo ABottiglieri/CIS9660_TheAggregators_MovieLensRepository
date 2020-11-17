@@ -3,11 +3,20 @@
 ### Using Data Mining to Increase User Engagement on an Online Movie Streaming Website: An Unsupervised Learning Model to Provide Personalized Movie Recommendations 
 
 #### 1. Team Members
-Deepa Rajareddy – Deepa.rajareddy@baruchmail.cuny.edu
-Sera Ahmed – Sera.ahmed@baruchmail.cuny.edu
-Shani Batat – Shani.batat@baruchmail.cuny.edu
-Janani Ravichandran – Janani.ravichandran@baruchmail.cuny.edu
-Alexandria Bottiglieri – Alexandria.bottiglieri@baruchmail.cuny.edu
+Deepa Rajareddy – 
+Deepa.rajareddy@baruchmail.cuny.edu
+
+Sera Ahmed – 
+Sera.ahmed@baruchmail.cuny.edu
+
+Shani Batat – 
+Shani.batat@baruchmail.cuny.edu
+
+Janani Ravichandran – 
+Janani.ravichandran@baruchmail.cuny.edu
+
+Alexandria Bottiglieri – 
+Alexandria.bottiglieri@baruchmail.cuny.edu
 
 #### 2. Description of the Project
 MovieLens is a streaming service that offers a variety of award winning movies on hundreds of internet connected devices. You can watch as much as you want and whenever you want. 
