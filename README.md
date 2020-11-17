@@ -1,4 +1,4 @@
-## CIS 9660_The Aggregators_MovieLensRepository
+## CIS9660_TheAggregators_MovieLensRepository
 
 ### Using Data Mining to Increase User Engagement on an Online Movie Streaming Website: An Unsupervised Learning Model to Provide Personalized Movie Recommendations 
 
